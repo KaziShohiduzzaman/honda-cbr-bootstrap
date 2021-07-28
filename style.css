@@ -1,0 +1,39 @@
+/* Poppin font import link  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* common style and utilities */
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.common-color{
+    color: #E76F51;
+}
+.common-bg-color{
+    background-color: #E76F51;
+}
+
+/* header section  */
+.header-background{
+    background-color:#264653 ;
+}
+.text-color-custom{
+    color: #c9c7c7;
+}
+.btn-color{
+    background-color: #E76F51;
+    color: white;
+    width: 168px;
+}
+/* Fetured Bikes section  */
+.bikes-grayscale{
+    filter: grayscale(100%);
+}
+/* happy client section  */
+.card-image{
+    height: 150px;
+    width: 150px;
+}
+
+
+
